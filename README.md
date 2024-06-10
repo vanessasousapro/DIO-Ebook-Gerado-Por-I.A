@@ -12,18 +12,16 @@ Este ebook foi desenvolvido utilizando ferramentas de inteligência artificial p
 
 Aqui está o prompt que utilizei durante o processo de criação do ebook:
 
-1. **Prompt De Criação**:![Captura de tela 2024-06-10 165004]()
+1. **Prompt De Criação**:
 
-    ```
     Escreva um texto para ebook, com foco no jogo stardew valley, listando um passo a passo completo de como iniciar já na primeira estação do jogo evoluindo ao maximo sua fazenda e fazendo o maximo de ouro possível.
-
-{REGRAS}
-> Explique sempre de maneira simples
-> Deixe o texto enxuto
-> De dicas de sementes e plantações mais lucrativas no começo do jogo
-> De dicas de quais os melhores lugares para pescar e como devo vender os meus peixes ou se devo guardá-los
-> Explique como iniciar o centro comunitário
-> Sempre deixe um título sugestivo por tópico
+REGRAS
+ Explique sempre de maneira simples
+ Deixe o texto enxuto
+ De dicas de sementes e plantações mais lucrativas no começo do jogo
+ De dicas de quais os melhores lugares para pescar e como devo vender os meus peixes ou se devo guardá-los
+ Explique como iniciar o centro comunitário
+ Sempre deixe um título sugestivo por tópico
     ```
 ## Como Visualizar o Ebook
 
