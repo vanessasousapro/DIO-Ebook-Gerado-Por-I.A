@@ -2,13 +2,18 @@
 Bem-vindo ao repositório do meu ebook criado com a ajuda da inteligência artificial! Este repositório contém o ebook finalizado, uma imagem de pré-visualização e os prompts que utilizei para a criação do conteúdo.
 Este ebook foi desenvolvido utilizando ferramentas de inteligência artificial para gerar conteúdo. Abaixo, você encontrará um print do ebook e os prompts específicos que foram utilizados para gerar o conteúdo.
 
-![Captura de tela 2024-06-10 165004](https://github.com/vanessasousapro/Projeto-Ebook-ai-dio/assets/141881796/676d5c47-97c7-4e60-b297-e7feaa31bf67)
+## Print do Ebook
+
+<p align="center">
+  <img src="https://github.com/vanessasousapro/Projeto-Ebook-ai-dio/assets/141881796/51dd2df7-74a9-4b2a-bba3-0d744d4a5a5c" alt="Print do Ebook">
+</p>
 
 ## Prompt Utilizado
 
 Aqui está o prompt que utilizei durante o processo de criação do ebook:
 
-1. **Prompt De Criação**:
+1. **Prompt De Criação**:![Captura de tela 2024-06-10 165004]()
+
     ```
     Escreva um texto para ebook, com foco no jogo stardew valley, listando um passo a passo completo de como iniciar já na primeira estação do jogo evoluindo ao maximo sua fazenda e fazendo o maximo de ouro possível.
 
