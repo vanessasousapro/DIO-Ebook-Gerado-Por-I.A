@@ -5,10 +5,11 @@ Este ebook foi desenvolvido utilizando ferramentas de inteligência artificial p
 ## Capa do Ebook
 
 <p align="center">
-  <img src="https://github.com/vanessasousapro/Projeto-Ebook-ai-dio/assets/141881796/51dd2df7-74a9-4b2a-bba3-0d744d4a5a5c" alt="Print do Ebook">
+  <img src="https://github.com/vanessasousapro/Projeto-Ebook-ai-dio/assets/141881796/ac383bb9-e385-40fa-919b-cb3ccbbedb8c">
 </p>
 
 ## Prompt Utilizado
+
 
 **Aqui está o prompt que utilizei durante o processo de criação do ebook**:
 
